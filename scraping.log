@@ -1,0 +1,267 @@
+2026-02-06 10:03:30,818 - INFO - Test scraping Aziza - alimentation
+2026-02-06 10:03:30,818 - INFO - ====== WebDriver manager ======
+2026-02-06 10:03:32,742 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:03:33,402 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:03:34,027 - INFO - There is no [win64] chromedriver "144.0.7559.133" for browser google-chrome "144.0.7559" in cache
+2026-02-06 10:03:34,027 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:03:34,937 - INFO - WebDriver version 144.0.7559.133 selected
+2026-02-06 10:03:34,942 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-06 10:03:34,944 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/win32/chromedriver-win32.zip
+2026-02-06 10:03:35,290 - INFO - Driver downloading response is 200
+2026-02-06 10:03:36,929 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:03:37,561 - INFO - Driver has been saved in cache [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133]
+2026-02-06 10:04:22,815 - INFO - Scraping Aziza - alimentation
+2026-02-06 10:04:22,815 - INFO - URL: https://www.aziza.tn/alimentation
+2026-02-06 10:04:22,815 - INFO - ====== WebDriver manager ======
+2026-02-06 10:04:24,022 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:04:24,471 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:04:25,020 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:12:34,859 - INFO - Scraping de Monoprix
+2026-02-06 10:12:54,815 - INFO - Scraping Monoprix - epicerie
+2026-02-06 10:12:54,816 - INFO - URL: https://www.monoprix.tn/drive/epicerie
+2026-02-06 10:12:54,816 - INFO - ====== WebDriver manager ======
+2026-02-06 10:12:56,037 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:12:56,442 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:12:56,870 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:12:58,121 - INFO - Chargement de la page...
+2026-02-06 10:13:06,171 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:13:08,735 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:13:08,735 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:13:12,905 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:13:12,906 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:13:13,035 - INFO - Screenshot: screenshot_mg_epicerie_20260206_101312.png
+2026-02-06 10:13:18,306 - INFO - Scraping Monoprix - boissons
+2026-02-06 10:13:18,306 - INFO - URL: https://www.monoprix.tn/drive/boissons
+2026-02-06 10:13:18,306 - INFO - ====== WebDriver manager ======
+2026-02-06 10:13:19,557 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:13:20,151 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:13:20,742 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:13:21,968 - INFO - Chargement de la page...
+2026-02-06 10:13:30,080 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:13:32,617 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:13:32,617 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:13:36,747 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:13:36,747 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:13:36,860 - INFO - Screenshot: screenshot_mg_boissons_20260206_101336.png
+2026-02-06 10:13:42,178 - INFO - Scraping Monoprix - frais
+2026-02-06 10:13:42,178 - INFO - URL: https://www.monoprix.tn/drive/frais
+2026-02-06 10:13:42,179 - INFO - ====== WebDriver manager ======
+2026-02-06 10:13:43,459 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:13:44,062 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:13:44,731 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:13:45,506 - INFO - Chargement de la page...
+2026-02-06 10:13:53,554 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:13:56,085 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:13:56,085 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:14:00,178 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:14:00,178 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:14:00,292 - INFO - Screenshot: screenshot_mg_frais_20260206_101400.png
+2026-02-06 10:14:05,542 - INFO - Scraping Monoprix - surgeles
+2026-02-06 10:14:05,542 - INFO - URL: https://www.monoprix.tn/drive/surgeles
+2026-02-06 10:14:05,542 - INFO - ====== WebDriver manager ======
+2026-02-06 10:14:06,752 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:07,103 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:07,461 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:14:08,724 - INFO - Chargement de la page...
+2026-02-06 10:14:16,795 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:14:19,323 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:14:19,324 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:14:23,420 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:14:23,420 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:14:23,507 - INFO - Screenshot: screenshot_mg_surgeles_20260206_101423.png
+2026-02-06 10:14:28,749 - INFO - Scraping Monoprix - hygiene
+2026-02-06 10:14:28,750 - INFO - URL: https://www.monoprix.tn/drive/hygiene-beaute
+2026-02-06 10:14:28,750 - INFO - ====== WebDriver manager ======
+2026-02-06 10:14:29,936 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:30,470 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:30,878 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:14:32,148 - INFO - Chargement de la page...
+2026-02-06 10:14:40,244 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:14:42,771 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:14:42,772 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:14:46,868 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:14:46,868 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:14:46,964 - INFO - Screenshot: screenshot_mg_hygiene_20260206_101446.png
+2026-02-06 10:14:52,234 - INFO - Scraping Monoprix - bebe
+2026-02-06 10:14:52,235 - INFO - URL: https://www.monoprix.tn/drive/bebe
+2026-02-06 10:14:52,235 - INFO - ====== WebDriver manager ======
+2026-02-06 10:14:53,472 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:53,822 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:14:54,223 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:14:55,422 - INFO - Chargement de la page...
+2026-02-06 10:15:03,521 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:15:06,070 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:15:06,070 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:15:10,146 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:15:10,147 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:15:10,246 - INFO - Screenshot: screenshot_mg_bebe_20260206_101510.png
+2026-02-06 10:15:15,477 - INFO - Scraping Monoprix - entretien
+2026-02-06 10:15:15,477 - INFO - URL: https://www.monoprix.tn/drive/entretien-maison
+2026-02-06 10:15:15,478 - INFO - ====== WebDriver manager ======
+2026-02-06 10:15:16,634 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:15:17,094 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 10:15:17,529 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 10:15:18,307 - INFO - Chargement de la page...
+2026-02-06 10:15:26,394 - INFO - Defilement de la page (5 fois)...
+2026-02-06 10:15:28,933 - INFO -   Defilement 1/5: hauteur 0 -> 0
+2026-02-06 10:15:28,933 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 10:15:33,032 - INFO - Analyse de 0 elements candidats...
+2026-02-06 10:15:33,032 - INFO - [SUCCES] 0 produits trouves
+2026-02-06 10:15:33,118 - INFO - Screenshot: screenshot_mg_entretien_20260206_101533.png
+2026-02-06 11:04:26,408 - INFO - Scraping de Géant
+2026-02-06 11:04:40,435 - INFO - Scraping Géant - boissons
+2026-02-06 11:04:40,435 - INFO - URL: https://www.geantdrive.tn/tunis-city/10-boissons
+2026-02-06 11:04:40,436 - INFO - ====== WebDriver manager ======
+2026-02-06 11:04:41,861 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:04:42,241 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:04:42,708 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:04:43,921 - INFO - Chargement de la page...
+2026-02-06 11:04:53,331 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:04:55,893 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:04:55,893 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:04:59,957 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:04:59,957 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:05:00,460 - INFO -   10 produits extraits...
+2026-02-06 11:05:00,781 - INFO -   20 produits extraits...
+2026-02-06 11:05:01,108 - INFO -   30 produits extraits...
+2026-02-06 11:05:01,383 - INFO -   40 produits extraits...
+2026-02-06 11:05:01,604 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:05:01,690 - INFO - Screenshot: screenshot_geant_boissons_20260206_110501.png
+2026-02-06 11:05:06,923 - INFO - Scraping Géant - epicerie
+2026-02-06 11:05:06,923 - INFO - URL: https://www.geantdrive.tn/tunis-city/31-epicerie
+2026-02-06 11:05:06,923 - INFO - ====== WebDriver manager ======
+2026-02-06 11:05:08,191 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:05:08,631 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:05:09,097 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:05:10,327 - INFO - Chargement de la page...
+2026-02-06 11:05:20,187 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:05:22,751 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:05:22,752 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:05:26,825 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:05:26,825 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:05:27,404 - INFO -   10 produits extraits...
+2026-02-06 11:05:27,706 - INFO -   20 produits extraits...
+2026-02-06 11:05:28,004 - INFO -   30 produits extraits...
+2026-02-06 11:05:28,296 - INFO -   40 produits extraits...
+2026-02-06 11:05:28,523 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:05:28,617 - INFO - Screenshot: screenshot_geant_epicerie_20260206_110528.png
+2026-02-06 11:05:33,858 - INFO - Scraping Géant - cremerie_et_surgele
+2026-02-06 11:05:33,858 - INFO - URL: https://www.geantdrive.tn/tunis-city/130-cremerie-et-surgele
+2026-02-06 11:05:33,858 - INFO - ====== WebDriver manager ======
+2026-02-06 11:05:35,084 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:05:36,679 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:05:37,216 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:05:38,406 - INFO - Chargement de la page...
+2026-02-06 11:05:48,586 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:05:51,161 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:05:51,161 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:05:55,226 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:05:55,226 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:05:55,712 - INFO -   10 produits extraits...
+2026-02-06 11:05:56,040 - INFO -   20 produits extraits...
+2026-02-06 11:05:56,481 - INFO -   30 produits extraits...
+2026-02-06 11:05:56,867 - INFO -   40 produits extraits...
+2026-02-06 11:05:57,253 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:05:57,344 - INFO - Screenshot: screenshot_geant_cremerie_et_surgele_20260206_110557.png
+2026-02-06 11:06:02,520 - INFO - Scraping Géant - le_marche
+2026-02-06 11:06:02,520 - INFO - URL: https://www.geantdrive.tn/tunis-city/160-le-marche
+2026-02-06 11:06:02,521 - INFO - ====== WebDriver manager ======
+2026-02-06 11:06:03,687 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:06:04,084 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:06:04,496 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:06:05,719 - INFO - Chargement de la page...
+2026-02-06 11:06:16,459 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:06:19,037 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:06:19,037 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:06:23,090 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:06:23,090 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:06:24,062 - INFO -   10 produits extraits...
+2026-02-06 11:06:24,543 - INFO -   20 produits extraits...
+2026-02-06 11:06:24,894 - INFO -   30 produits extraits...
+2026-02-06 11:06:25,231 - INFO -   40 produits extraits...
+2026-02-06 11:06:25,470 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:06:25,585 - INFO - Screenshot: screenshot_geant_le_marche_20260206_110625.png
+2026-02-06 11:06:30,794 - INFO - Scraping Géant - hygiene_et_beaute
+2026-02-06 11:06:30,794 - INFO - URL: https://www.geantdrive.tn/tunis-city/210-hygiene-et-beaute
+2026-02-06 11:06:30,794 - INFO - ====== WebDriver manager ======
+2026-02-06 11:06:31,907 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:06:32,361 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:06:33,852 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:06:35,143 - INFO - Chargement de la page...
+2026-02-06 11:06:46,005 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:06:48,570 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:06:48,570 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:06:52,640 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:06:52,640 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:06:53,450 - INFO -   10 produits extraits...
+2026-02-06 11:06:53,955 - INFO -   20 produits extraits...
+2026-02-06 11:06:54,535 - INFO -   30 produits extraits...
+2026-02-06 11:06:54,923 - INFO -   40 produits extraits...
+2026-02-06 11:06:55,205 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:06:55,339 - INFO - Screenshot: screenshot_geant_hygiene_et_beaute_20260206_110655.png
+2026-02-06 11:07:00,555 - INFO - Scraping Géant - univers_bebes
+2026-02-06 11:07:00,555 - INFO - URL: https://www.geantdrive.tn/tunis-city/322-univers-bebes
+2026-02-06 11:07:00,556 - INFO - ====== WebDriver manager ======
+2026-02-06 11:07:01,712 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:07:02,111 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:07:02,654 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:07:03,908 - INFO - Chargement de la page...
+2026-02-06 11:07:13,162 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:07:15,736 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:07:15,736 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:07:19,837 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:07:19,837 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:07:20,206 - INFO -   10 produits extraits...
+2026-02-06 11:07:20,520 - INFO -   20 produits extraits...
+2026-02-06 11:07:20,846 - INFO -   30 produits extraits...
+2026-02-06 11:07:21,133 - INFO -   40 produits extraits...
+2026-02-06 11:07:21,489 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:07:21,634 - INFO - Screenshot: screenshot_geant_univers_bebes_20260206_110721.png
+2026-02-06 11:07:26,875 - INFO - Scraping Géant - produits_menagers
+2026-02-06 11:07:26,875 - INFO - URL: https://www.geantdrive.tn/tunis-city/268-produits-menagers
+2026-02-06 11:07:26,876 - INFO - ====== WebDriver manager ======
+2026-02-06 11:07:27,968 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:07:28,320 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:07:28,756 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:07:30,039 - INFO - Chargement de la page...
+2026-02-06 11:07:39,409 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:07:41,974 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:07:41,974 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:07:46,038 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:07:46,039 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:07:46,498 - INFO -   10 produits extraits...
+2026-02-06 11:07:46,884 - INFO -   20 produits extraits...
+2026-02-06 11:07:47,242 - INFO -   30 produits extraits...
+2026-02-06 11:07:47,539 - INFO -   40 produits extraits...
+2026-02-06 11:07:47,778 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:07:47,872 - INFO - Screenshot: screenshot_geant_produits_menagers_20260206_110747.png
+2026-02-06 11:07:53,108 - INFO - Scraping Géant - maison
+2026-02-06 11:07:53,109 - INFO - URL: https://www.geantdrive.tn/tunis-city/821-maison
+2026-02-06 11:07:53,109 - INFO - ====== WebDriver manager ======
+2026-02-06 11:07:54,162 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:07:56,070 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-06 11:08:00,851 - INFO - Driver [C:\Users\Administrateur\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-06 11:08:02,115 - INFO - Chargement de la page...
+2026-02-06 11:08:11,767 - INFO - Defilement de la page (5 fois)...
+2026-02-06 11:08:14,325 - INFO -   Defilement 1/5: hauteur 3219 -> 3219
+2026-02-06 11:08:14,325 - INFO -   Hauteur stable, arret du defilement
+2026-02-06 11:08:18,406 - INFO - Trouve 48 elements avec .item-product
+2026-02-06 11:08:18,406 - INFO - Analyse de 48 elements candidats...
+2026-02-06 11:08:18,875 - INFO -   10 produits extraits...
+2026-02-06 11:08:19,258 - INFO -   20 produits extraits...
+2026-02-06 11:08:19,553 - INFO -   30 produits extraits...
+2026-02-06 11:08:19,868 - INFO -   40 produits extraits...
+2026-02-06 11:08:20,151 - INFO - [SUCCES] 48 produits trouves
+2026-02-06 11:08:20,277 - INFO - Screenshot: screenshot_geant_maison_20260206_110820.png
+2026-02-06 11:08:25,527 - INFO - [FICHIER] CSV sauvegarde: resultats/geant_20260206_110825.csv
+2026-02-06 11:08:25,915 - INFO - [FICHIER] Excel sauvegarde: resultats/geant_20260206_110825.xlsx
+2026-02-06 11:08:25,920 - INFO - [FICHIER] JSON sauvegarde: resultats/geant_20260206_110825.json
+2026-02-06 11:08:25,920 - INFO - 
+STATISTIQUES:
+2026-02-06 11:08:25,920 - INFO - Total produits: 384
+2026-02-06 11:08:25,920 - INFO - 
+Par supermarche:
+2026-02-06 11:08:25,923 - INFO - 
+Par categorie:
+2026-02-06 11:08:25,925 - INFO - 
+APERCU DES DONNEES:
